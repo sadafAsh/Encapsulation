@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6455b56-4730-4916-922d-6b6d2a174e68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e409f5360bfe4e9f44e5fbc866e600a659549555" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/soj/encapsulation/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/javaJourney.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/javaJourney.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soj/encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soj/encapsulation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/soj/encapsulation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/soj/encapsulation/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +29,42 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Encapsulation" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Encapsulation" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Encapsulation" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -43,31 +87,133 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.soj.encapsulation" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\sadaf\Encapsulation\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soj.encapsulation.Main" />
-      <module name="Encapsulation.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soj.encapsulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle sonarqube    -Dsonar.projectKey=Encapsulation    -Dsonar.host.url=http://localhost:9000    -Dsonar.login=591f352c4ce6ecdb282fdf0a4e180e0facfd358c" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Encapsulation [build]">
+    <configuration name="AccountTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.soj.encapsulation.AccountTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AccountTest.testToGetAmount" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.soj.encapsulation.AccountTest.testToGetAmount&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AccountTest.testToGetEmail" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.soj.encapsulation.AccountTest.testToGetEmail&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Encapsulation [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Encapsulation [sonarqube]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="sonarqube" />
+          </list>
+        </option>
+        <option name="vmOptions" value="-Dsonar.projectKey=Encapsulation -Dsonar.host.url=http://localhost:9000 -Dsonar.login=591f352c4ce6ecdb282fdf0a4e180e0facfd358c" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.Encapsulation [sonarqube]" />
+        <item itemvalue="Gradle.Encapsulation [build]" />
+        <item itemvalue="Gradle.AccountTest" />
+        <item itemvalue="Gradle.AccountTest.testToGetEmail" />
+        <item itemvalue="Gradle.AccountTest.testToGetAmount" />
       </list>
     </recent_temporary>
   </component>
@@ -101,21 +247,37 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="150" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1368.720@0.0.1368.720" timestamp="1645626742145" />
-    <state width="629" height="173" key="GridCell.Tab.0.bottom" timestamp="1645627017200">
+    <state width="629" height="176" key="GridCell.Tab.0.bottom" timestamp="1645633251458">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="629" height="173" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645627017200" />
-    <state width="629" height="173" key="GridCell.Tab.0.center" timestamp="1645627017200">
+    <state width="629" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645633251458" />
+    <state width="629" height="176" key="GridCell.Tab.0.center" timestamp="1645633251458">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="629" height="173" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645627017200" />
-    <state width="629" height="173" key="GridCell.Tab.0.left" timestamp="1645627017200">
+    <state width="629" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645633251458" />
+    <state width="629" height="176" key="GridCell.Tab.0.left" timestamp="1645633251458">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="629" height="173" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645627017200" />
-    <state width="629" height="173" key="GridCell.Tab.0.right" timestamp="1645627017200">
+    <state width="629" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645633251458" />
+    <state width="629" height="176" key="GridCell.Tab.0.right" timestamp="1645633251458">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="629" height="173" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645627017200" />
+    <state width="629" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645633251458" />
+    <state x="396" y="77" key="MultipleFileMergeDialog" timestamp="1645627291825">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="396" y="77" key="MultipleFileMergeDialog/0.0.1368.720@0.0.1368.720" timestamp="1645627291825" />
+    <state x="455" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1645627489570">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="455" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.720@0.0.1368.720" timestamp="1645627489570" />
+    <state x="400" y="163" key="git4idea.merge.GitPullDialog" timestamp="1645627301692">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="400" y="163" key="git4idea.merge.GitPullDialog/0.0.1368.720@0.0.1368.720" timestamp="1645627301692" />
+    <state x="340" y="160" width="672" height="677" key="run.anything.popup" timestamp="1645632543717">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="340" y="160" width="672" height="677" key="run.anything.popup/0.0.1368.720@0.0.1368.720" timestamp="1645632543717" />
   </component>
 </project>
