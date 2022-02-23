@@ -3,6 +3,7 @@ package com.soj.encapsulation;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+//first commmit
 public class Main {
     static final Logger logger= LogManager.getLogger(Main.class.getName());
     public static void main(String[] args){
@@ -12,6 +13,7 @@ public class Main {
         account.setName("Vishal Singh");
         account.setEmail("vishalsingh@google.com");
         account.setAmount(50000f);
+
 
         logger.debug("Account_No :{} ",account.getAccNo());
         logger.debug("Name :  {}",account.getName());

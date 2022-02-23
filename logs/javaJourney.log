@@ -1,4 +1,4 @@
-DEBUG [main] 2022-02-23T14:32:47,163  (line ) Account_No :23455600 
-DEBUG [main] 2022-02-23T14:32:47,164  (line ) Name :  Vishal Singh
-DEBUG [main] 2022-02-23T14:32:47,164  (line ) Email : vishalsingh@google.com
-DEBUG [main] 2022-02-23T14:32:47,166  (line ) Amount :50000.0 
+DEBUG [main] 2022-02-23T14:36:47,252  (line ) Account_No :23455600 
+DEBUG [main] 2022-02-23T14:36:47,253  (line ) Name :  Vishal Singh
+DEBUG [main] 2022-02-23T14:36:47,253  (line ) Email : vishalsingh@google.com
+DEBUG [main] 2022-02-23T14:36:47,255  (line ) Amount :50000.0 
