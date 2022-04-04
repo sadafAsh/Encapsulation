@@ -1,25 +1,26 @@
 # Encapsulation
-         Encapsulation in java is a mechanism to wrap up data and methods together in a single
- unit.It is the process of hiding information details and protecting the data and behaviour of
- the object.It is one of the four important OOP concepts.Encapsulated in java can be created 
- by making all the data members of the class private.Now we can use getter and setter method
- to access the data in it.
-         In this project, Account object is being created and data members are all private
- and to access the data make getter and setter methods.
- 
- ADVANTAGE OF ENCAPSULATION:
-       It helps to achieve the data hiding in java because other classes will not be able to
- access the data through private members.
-         It is easy to test.It is better in uniting testing.
-        By providing the getter and setter method,we can make the class read-only or write-only.   
+       
+         Encapsulation in java is a mechanism to wrap up data and methods together in a single unit.
+         
+         It is the process of hiding information details, protecting the data and behaviour of
+ the object.
+         It is easy to test that means it is better in unit testing.
+         It is one of the four important OOP concepts.
+         Encapsulated in java can be created  by making  the class members/attributes as private.
+         To access the private members, getter and setter methods to be created.
+        
+         In this project, "Account" object is being created, class members are declared as private 
+ and getter and setter methods is created to access the class.   
       
  
  
 JunitTest:
-        There is JUnit Test also present for all Encapsulation and test coverage are 100%
+        The JUnit Test is done of all the classes in an Encapsulation project  and test coverage are 100%
   successful by jacoco reports.
        
-  SONARQUBE 
+  SONARQUBE :
+          In sonarqube,reliability ,security , securityReview and maintainability is A and 
+the code coverage is 100%. 
   
   gradle command to publish code to sonarqube
 gradle sonarqube 

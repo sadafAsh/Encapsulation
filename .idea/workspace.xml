@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6455b56-4730-4916-922d-6b6d2a174e68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -73,9 +74,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AbstractFactoryPattern" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -236,34 +238,57 @@
       <option name="project" value="LOCAL" />
       <updated>1645633274397</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="README.md commit">
+      <created>1645637095994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645637095994</updated>
+    </task>
+    <task id="LOCAL-00003" summary="README.md commit">
+      <created>1645637147767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645637147767</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="README.md commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="150" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1645626742145">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="150" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1368.720@0.0.1368.720" timestamp="1645626742145" />
-    <state width="629" height="176" key="GridCell.Tab.0.bottom" timestamp="1645633251458">
+    <state x="351" y="0" key="CommitChangelistDialog2" timestamp="1645637147408">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="629" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645633251458" />
-    <state width="629" height="176" key="GridCell.Tab.0.center" timestamp="1645633251458">
+    <state x="351" y="0" key="CommitChangelistDialog2/0.0.1368.720@0.0.1368.720" timestamp="1645637147408" />
+    <state x="464" y="117" key="FileChooserDialogImpl" timestamp="1649067524497">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="629" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645633251458" />
-    <state width="629" height="176" key="GridCell.Tab.0.left" timestamp="1645633251458">
+    <state x="464" y="117" key="FileChooserDialogImpl/0.0.1368.720@0.0.1368.720" timestamp="1649067524497" />
+    <state width="629" height="176" key="GridCell.Tab.0.bottom" timestamp="1645637965452">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="629" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645633251458" />
-    <state width="629" height="176" key="GridCell.Tab.0.right" timestamp="1645633251458">
+    <state width="629" height="176" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1645637965452" />
+    <state width="629" height="176" key="GridCell.Tab.0.center" timestamp="1645637965452">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state width="629" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645633251458" />
+    <state width="629" height="176" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1645637965452" />
+    <state width="629" height="176" key="GridCell.Tab.0.left" timestamp="1645637965451">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="629" height="176" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1645637965451" />
+    <state width="629" height="176" key="GridCell.Tab.0.right" timestamp="1645637965452">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="629" height="176" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1645637965452" />
     <state x="396" y="77" key="MultipleFileMergeDialog" timestamp="1645627291825">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
@@ -272,14 +297,18 @@
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="164" y="0" key="SettingsEditor/0.0.1368.720@0.0.1368.720" timestamp="1645636697686" />
+    <state x="276" y="95" key="Vcs.Push.Dialog.v2" timestamp="1645637153880">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="276" y="95" key="Vcs.Push.Dialog.v2/0.0.1368.720@0.0.1368.720" timestamp="1645637153880" />
     <state x="455" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1645627489570">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
     <state x="455" y="92" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.720@0.0.1368.720" timestamp="1645627489570" />
-    <state x="400" y="163" key="git4idea.merge.GitPullDialog" timestamp="1645627301692">
+    <state x="400" y="163" key="git4idea.merge.GitPullDialog" timestamp="1645637167064">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
-    <state x="400" y="163" key="git4idea.merge.GitPullDialog/0.0.1368.720@0.0.1368.720" timestamp="1645627301692" />
+    <state x="400" y="163" key="git4idea.merge.GitPullDialog/0.0.1368.720@0.0.1368.720" timestamp="1645637167064" />
     <state x="340" y="160" width="672" height="677" key="run.anything.popup" timestamp="1645632543717">
       <screen x="0" y="0" width="1368" height="720" />
     </state>
